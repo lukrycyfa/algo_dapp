@@ -9,6 +9,7 @@
     "react-scripts": "^4.0.3"
   },
   "devDependencies": {
-    "raw-loader": "^4.0.2"
+    "raw-loader": "^4.0.2",
+    "webpack-cli": "^4.10.0"
   }
 }
